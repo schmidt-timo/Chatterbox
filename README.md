@@ -1,5 +1,7 @@
+2nd semester, Lab1 @ HTW Berlin
+
 # Chatterbox
-Establish a connection between a server and a client (for chatting with each other) - 2nd semester, Lab1 @ HTW Berlin
+Establish a connection between a server and a client (for chatting with each other)
 
 Required exercises:
 
