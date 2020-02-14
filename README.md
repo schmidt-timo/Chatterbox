@@ -1,4 +1,4 @@
-# ServerClient
+# Chatterbox
 Establish a connection between a server and a client (for chatting with each other) - 2nd semester, Lab1 @ HTW Berlin
 
 Required exercises:
